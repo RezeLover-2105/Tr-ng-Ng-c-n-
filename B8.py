@@ -1,0 +1,5 @@
+a=int(input())
+b=int(input())
+c=float(input())
+d=float(input())
+print("Thanh toán:",int(a*b*((100-c)/100)*(100+d)/100))

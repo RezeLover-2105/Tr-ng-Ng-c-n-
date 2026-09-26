@@ -1,0 +1,7 @@
+qd1=float(input())
+vt1=float(input())
+qd2=float(input())
+vt2=float(input())
+qd3=float(input())
+vt3=float(input())
+print("Tổng:",qd1+qd2+qd3,"km, ",(qd1/vt1)+(qd2/vt2)+(qd3/vt3),"giờ, ",(vt1+vt2+vt3)/3,"km/h")

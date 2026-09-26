@@ -1,0 +1,6 @@
+d=float(input())
+r=float(input())
+c=float(input())
+cs=float(input())
+cua=float(input())
+print("Diện tích cần sơn:",d*c*2+r*c*2-cs-cua,"m^2")
